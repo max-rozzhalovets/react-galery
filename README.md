@@ -4,3 +4,4 @@
 - Only desktop layout 
 - Pagination
 - [API](https://pixabay.com/api/docs/)
+- Every picture has got a modal window
