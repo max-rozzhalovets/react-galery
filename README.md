@@ -1,4 +1,4 @@
-##This app is made for searching images with keywords.
+## This app is made for searching images with keywords.
 
 - Made with create react app
 - Only desktop layout 
